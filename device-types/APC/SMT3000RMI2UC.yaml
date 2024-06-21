@@ -35,9 +35,5 @@ power-outlets:
   - name: Group 2 Outlet 3
     type: iec-60320-c13
     power_port: Source
-interfaces:
-  - name: Ethernet
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   - name: SmartSlot

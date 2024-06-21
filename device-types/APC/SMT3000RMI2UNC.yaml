@@ -1,12 +1,12 @@
 ---
 manufacturer: APC
-model: SMT3000RMI2UC
-slug: apc-smt3000rmi2uc
-part_number: SMT3000RMI2UC
+model: SMT3000RMI2UNC
+slug: apc-smt3000rmi2unc
+part_number: SMT3000RMI2UNC
 u_height: 2
 is_full_depth: true
 airflow: front-to-rear
-comments: APC Smart-UPS, Line Interactive, 3000VA, Rackmount 2U, 230V, 6x IEC C13 outlets, SmartSlot, AVR, LCD
+comments: APC Smart-UPS, Line Interactive, 3000VA, Rackmount 2U, Network, 230V, 6x IEC C13 outlets, SmartSlot, AVR, LCD
 console-ports:
   - name: Serial
     type: rj-45
